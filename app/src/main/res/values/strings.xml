@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">UAS 180030570 1</string>
+    <string name="id_mhs">ID Mahasiswa</string>
+    <string name="nim">Nim</string>
+    <string name="gambar">Foto</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="prodi">Program Studi</string>
+    <string name="status_transfer">Status Transfer</string>
+    <string name="status_investasi">Status Investasi</string>
+    <string name="kampus">Kampus</string>
+    <string name="status_kelas">Status Kelas</string>
+    <string name="konsentrasi">Konsentrasi</string>
+    <string name="notelp">No Telp</string>
+    <string name="tambah">Tambah</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="bagikan">bagikan Berita</string>
+
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_mhs">Data Mahasiswa</string>
+    <string name="pilih_tgl">Pilih</string>
+
+    //combobox pilihan status kelas
+    <string-array name="status_kelas">
+        <item>Reguler Pagi</item>
+        <item>Reguler Pagi-Siang</item>
+        <item>Reguler Malam</item>
+        <item>Karyawan Malam</item>
+        <item>Inter Pagi</item>
+        <item>Inter Pagi-Siang</item>
+        <item>Inter Malam</item>
+    </string-array>
+
+    //combobox pilihan konsentrasi
+    <string-array name="konsentrasi">
+        <item>Belum Konsentrasi</item>
+        <item>Intelligent System</item>
+        <item>Enterprise System</item>
+        <item>Game dan Multimedia</item>
+        <item>E-Tourism</item>
+    </string-array>
+
+    //combobox pilihan status tf
+    <string-array name="starus_transfer">
+        <item>Transfer</item>
+        <item>Tidak Transfer</item>
+    </string-array>
+
+    //combobox pilihan status inves
+    <string-array name="status_investasi">
+        <item>Investasi</item>
+        <item>Bukan Investasi</item>
+    </string-array>
+
+    //combobox pilihan kampus
+    <string-array name="kampus">
+        <item>Renon</item>
+        <item>Jimbaran</item>
+    </string-array>
+
+    //combobox pilihan prodi
+    <array name="prodi">
+        <item>Sistem Informasi</item>
+        <item>Sistem Komputer</item>
+        <item>E-Tourism</item>
+        <item>TI</item>
+    </array>
+</resources>
